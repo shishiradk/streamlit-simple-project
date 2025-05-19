@@ -1,6 +1,5 @@
 # 🌸 Iris Flower Species Prediction
 
-![Iris Prediction UI](b469e348-a030-4c43-9e04-b4263739f8ef.png)
 
 This web app allows you to **predict the species of an Iris flower** using a **Random Forest Classifier** trained on the classic [Iris dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html). It’s built with **Streamlit** and features an interactive UI for exploring how the flower’s features influence the prediction.
 
