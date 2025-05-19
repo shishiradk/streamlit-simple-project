@@ -39,4 +39,43 @@ This web app allows you to **predict the species of an Iris flower** using a **R
 
 ```bash
 pip install streamlit scikit-learn pandas numpy
+```
 
+### ▶️ Run the App
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📂 Code Structure
+
+```python
+# 1. Import libraries
+# 2. Load dataset (cached)
+# 3. Train a Random Forest model
+# 4. Create sliders for user input
+# 5. Make prediction based on input
+# 6. Display the result
+```
+
+---
+
+## 📸 Screenshot
+
+![UI Screenshot] <img width="503" alt="image" src="https://github.com/user-attachments/assets/b6a97dd2-5f55-443b-9d67-fb1e4104492d" />
+
+
+---
+
+## 🤖 Example Output
+
+> 🌸 **The predicted species is: versicolor**
+
+
+---
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
